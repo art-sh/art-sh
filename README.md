@@ -62,3 +62,5 @@ console.log('Hello world');
 ```
 ---
 All the projects I have worked on are in private repositories, but in 2020 completed Rolling Scopes School (JavaScript/Frontend) course, during which make some [projects (check README.md)](https://github.com/art-sh/rsschool) and [our final task (when I was a team lead)](https://github.com/art-sh/rsclone/pull/41).
+<br>
+[RS School certificate](https://app.rs.school/certificate/dbaw2mj8)
